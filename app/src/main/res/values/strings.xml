@@ -10,7 +10,7 @@
     <string name="share_via" >Share via</string>
     <string name="update_speech_recognition">Voice forbidden, please update Google Voice Service</string>
     <string name="tap_translate">Tap to Translate</string>
-    <string name="tap_translate_summary">When enabled, copy text and tap on the floating icon ot the Translate notification for an instant translation.</string>
+    <string name="tap_translate_summary">When enabled, copy text and tap on the floating icon or the Translate notification for an instant translation.</string>
     <string name="tap_translate_switch">Enable</string>
     <string name="tap_translate_switch_summary">When on, Tap to Translate runs in the background.</string>
     <string name="offline_translate">Offline translation</string>
@@ -25,11 +25,11 @@
     <string name="recite_phrase_duration">Reminder duration</string>
     <string name="recite_phrase_duration_summary">Duration of reminder display</string>
     <string name="interval_thirty_second">Half minute</string>
-    <string name="interval_one_minute">1 minutes</string>
+    <string name="interval_one_minute">1 minute</string>
     <string name="interval_three_minute">3 minutes</string>
     <string name="interval_five_minute">5 minutes</string>
     <string name="interval_ten_minute">10 minutes</string>
-    <string name="interval_thirty_minute">Half Hour</string>
+    <string name="interval_thirty_minute">Half hour</string>
     <string name="duration_two_second">2 seconds</string>
     <string name="duration_three_second">3 seconds</string>
     <string name="duration_four_second">4 seconds</string>
@@ -42,7 +42,7 @@
     <string name="support_dev_summary">Watch ads to support us</string>
     <string name="localization">Help with localization</string>
     <string name="localization_summary">Encourage everyone to help with localization</string>
-    <string name="about">about</string>
+    <string name="about">About</string>
     <string name="features">Features</string>
     <string name="feedback">Feedback</string>
     <string name="share">Share</string>
