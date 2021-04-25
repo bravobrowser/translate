@@ -9,5 +9,5 @@ This APP is still WIP.
 
 # TODO
 1. Tap to Translate
-2. Offline translate
+2. Offline translate(DONE)
 3. Recite phrase
