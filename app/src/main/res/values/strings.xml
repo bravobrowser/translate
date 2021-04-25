@@ -52,7 +52,7 @@
     <string name="clear_history">Clear translation history?</string>
     <string name="unknown_error">Unknown error occurred.</string>
     <string name="input_hint">Tap to enter text</string>
-    <string name="non_favorite">Your favorite is empty. Tap ❤️️  next to \na translation to save it here!</string>
+    <string name="non_favorite">Your favorite is empty. Tap ❤️️ next to \na translation to save it here!</string>
     <string name="menu_search">Search</string>
     <string name="menu_recite_phrase">Recite phrase</string>
     <string name="menu_clear_favorite">Clear favorite</string>
@@ -60,4 +60,6 @@
     <string name="menu_sort_default">Default sort (favorite time)</string>
     <string name="menu_sort_ascending">Ascending by first letter</string>
     <string name="menu_sort_descending">Descending by first letter</string>
+    <string name="ocr_overlay_help">Center text in box</string>
+    <string name="ocr_downloading_model_files">Downloading model files…</string>
 </resources>
